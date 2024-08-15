@@ -96,4 +96,4 @@ If you find this project useful, please consider giving it a ⭐ on [GitHub](htt
 
 ## Contact
 
-For support or questions, please contact me on Discord @untanukii or [Twitter](https://twitter.com/untanukii).
+For support or questions, please contact me on Discord [@untanukii](https://dsc.gg/untanukii) or [Twitter](https://twitter.com/untanukii).
