@@ -11,9 +11,7 @@
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
-- Discord Bot Token
-- Discord Client ID and Client Secret
+- [Node.js (v16 or higher)](https://nodejs.org/fr)
 
 ### Creating Your Discord Bot
 
