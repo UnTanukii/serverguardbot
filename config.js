@@ -3,16 +3,16 @@ require('dotenv').config();
 
 const config = {
     'locale': 'fr',//-> locale for moment.js
-    'requiredGuilds': ['1231286446472691825'],
+    'requiredGuilds': ['GUILD ID', 'GUILD ID'],//-> array of guilds where the user must be to be authorized
     'userAllGuilds': false,//-> if you want to check if the user is in all guilds in the array or just one
-    'authorizedRole': '1075560686626816090',//-> role id to give to the user if he is authorized
+    'authorizedRole': 'ROLE ID',//-> role id to give to the user if he is authorized
     'oauth':{
         'address': '127.0.0.1',
         'port': 3000,
     },
     'channel':{
-        'guildId': '824743991983210497',//-> guild id where the bot will send the message
-        'id': '1271977992582729731',//-> channel id where the bot will send the message
+        'guildId': 'GUILD ID',//-> guild id where the bot will send the message
+        'id': 'CHANNEL ID',//-> channel id where the bot will send the message
         'bulkDelete': true,//-> if you want to delete all messages in the channel before sending the message
     },
     'embeds': {
